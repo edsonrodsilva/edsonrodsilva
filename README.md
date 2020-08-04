@@ -7,5 +7,5 @@ Minhas especialidades é planejar e desenvolver sistemas. Habilidades em desenvo
 
 Experiência em desenvolvimento Web PHP POO. Habilidades com banco de dados (MySql), controle de versão (GIT), Javascript, Ajax, HTML, Integração com SOAP e REST.
 
-Atualmente meu foco esta o universo do javascript, estou fazendo o ##GoStack da Rocketseat##.
+Atualmente meu foco está o universo do javascript, estou fazendo o ##GoStack da Rocketseat##.
 O GoStack é um treinamento, prático e intensivo, no formato de bootcamp que vai a fundo nas tecnologias NodeJS, ReactJS e React Native, e todo o ecossistema ao redor dessas ferramentas, do zero ao deploy.
