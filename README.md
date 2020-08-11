@@ -2,7 +2,7 @@
 # Apaixonado por código, louco por tecnologia.
 
 Sou Graduado em Redes e me especializei em Engenharia de Software centrada em Métodos Ágeis pela PUC MINAS.
-Sou um desenvolvedor Full Stack mais Backend, com mais de 10 anos de experiência em desenvolvimento web e infraestrutura. Trabalhei em algumas aplicações com grande volumes de dados. Possuo sólidos conhecimentos em programação funcional, OOP, DevOps, Javascript. Tenho conhecimento em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento e conhecedor das praticas de trabalhar com TDD e BDD.
+Sou um desenvolvedor Full Stack mais Backend, com mais de 10 anos de experiência em desenvolvimento web e infraestrutura. Trabalhei em algumas aplicações com grande volumes de dados. Possuo sólidos conhecimentos em programação funcional, OOP, DevOps, Javascript. Tenho conhecimento em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento e conhecedor das práticas de trabalhar com TDD e BDD.
 
 Minhas especialidades é planejar e desenvolver sistemas. Habilidades em desenvolvimento com foco no Back-end usando os Frameworks Laravel, CakePHP e CodeIgniter dentre outros. Grande conhecimento de modelagem, linguagem SQL, integração e desenvolvimento de APIs e configuração de servidores Linux.
 
