@@ -6,7 +6,19 @@ Tenho expertise em microsserviços e arquitetura escalável, aplicando boas prá
 Atualmente, atuo como Engenheiro de Software, com experiência em AWS, Azure, Arquitetura Orientada a Eventos, construção de sistemas escaláveis e observabilidade. Sou proativo, focado em resultados, com forte capacidade analítica e comunicação eficaz.
 Certificações:
 
-Microsoft Certified: AZ-900, DP-900, AI-900, MS-900, PL-900
-GitHub Funtation Certification
+Microsoft Certified:
+AZ-900 – Microsoft Azure Fundamentals
+DP-900 – Microsoft Azure Data Fundamentals
+AI-900 – Microsoft Azure AI Fundamentals
+MS-900 – Microsoft 365 Fundamentals
+PL-900 – Microsoft Power Platform Fundamentals
+
+GitHub Certified:
+GH-900 – GitHub Foundations
+GH-300 – GitHub Advanced Security
+
+AWS Certified:
 AWS Certified Cloud Practitioner
+
+MongoDB Certified:
 MongoDB SI Associate Certification
