@@ -1,10 +1,15 @@
 Engenheiro de Software | Back-end
 
-Apaixonado por código e tecnologia, sou graduado em Redes e pós-graduado em Engenharia de Software e Métodos Ágeis. Com mais de 15 anos de experiência em desenvolvimento backend, sou especializado em Java (com Spring Boot), JavaScript (Node.js), TypeScript, PHP e ReactJs no Front-End. Tenho conhecimento em C#, .NET, Python.
+Engenheiro de Software com mais de 15 anos de experiência em desenvolvimento back-end, com forte atuação na construção de sistemas escaláveis e de alta disponibilidade. Graduado em Redes de Computadores e pós-graduado em Engenharia de Software e Métodos Ágeis.
 
-Tenho expertise em microsserviços e arquitetura escalável, aplicando boas práticas como SOLID e Clean Architecture. Minha experiência inclui atuação em sistemas financeiros e grandes projetos, com integração de APIs REST e soluções de mensageria usando Amazon SQS e Service Bus. Também sou proficiente em bancos de dados como SQL Server, MySQL, PostgreSQL, MongoDB e DynamoDB.
-Atualmente, atuo como Engenheiro de Software, com experiência em AWS, Azure, Arquitetura Orientada a Eventos, construção de sistemas escaláveis e observabilidade. Sou proativo, focado em resultados, com forte capacidade analítica e comunicação eficaz.
-Certificações:
+Especialista em Java (Spring Boot), com experiência também em Node.js, TypeScript e PHP, além de atuação no front-end com React. Possuo conhecimentos complementares em C#, .NET e Python.
+
+Atuo com arquitetura de microsserviços e sistemas distribuídos, aplicando boas práticas como SOLID, Clean Architecture e DDD. Tenho experiência em projetos de grande porte, especialmente no setor financeiro, trabalhando com integração de APIs REST e mensageria utilizando serviços como Amazon SQS e Azure Service Bus.
+
+Sólida experiência com bancos de dados relacionais e não relacionais, incluindo SQL Server, PostgreSQL, MySQL, MongoDB e DynamoDB, além do uso de cache e estratégias de performance.
+
+Atualmente, trabalho com ambientes cloud (AWS e Azure), arquitetura orientada a eventos, observabilidade (logs, métricas e tracing) e construção de pipelines CI/CD.
+Perfil proativo, com forte capacidade analítica, foco em resultados e boa comunicação para atuação em times multidisciplinares.
 
 Microsoft Certified:
 AZ-900 – Microsoft Azure Fundamentals
